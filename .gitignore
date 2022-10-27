@@ -1,0 +1,6 @@
+.terraform/
+.terraform.lock.hcl
+Terraform_main_key.pem
+terraform.tfstate
+terraform.tfstate.backup
+.DS_Store
